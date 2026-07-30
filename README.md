@@ -2,8 +2,8 @@
 
 # 🔒 FRP Client GUI
 
-**基于 Python 的 FRP 内网穿透客户端管理工具**
-**适配最新0.70.1**
+**基于 Python 的 FRP 内网穿透客户端管理工具--0.70.1**
+
 现代化暗色主题界面 · 多协议支持 · 一键启停 · 系统托盘驻留
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
